@@ -1,0 +1,316 @@
+{
+    "channels": [
+      {
+        "name": "Sky Showcase",
+        "serviceKey": "1275",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1275_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1275_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Atlantic",
+        "serviceKey": "4053",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4053_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4053_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Max",
+        "serviceKey": "4061",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4061_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4061_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Witness",
+        "serviceKey": "4066",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4066_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4066_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Alibi",
+        "serviceKey": "3825",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_3825_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_3825_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "GOLD",
+        "serviceKey": "6513",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_6513_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_6513_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Comedy",
+        "serviceKey": "1143",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1143_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1143_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Comedy Central",
+        "serviceKey": "4056",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4056_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4056_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "MTV",
+        "serviceKey": "3831",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_3831_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_3831_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Documentaries",
+        "serviceKey": "1136",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1136_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1136_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Crime",
+        "serviceKey": "1212",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1212_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1212_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Nature",
+        "serviceKey": "1165",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1165_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1165_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky History",
+        "serviceKey": "4086",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4086_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4086_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Sci-Fi",
+        "serviceKey": "4074",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4074_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4074_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky News",
+        "serviceKey": "4050",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4050_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4050_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Arts",
+        "serviceKey": "4063",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4063_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4063_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Cinema Premier",
+        "serviceKey": "4021",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4021_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4021_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Cinema 2024 Picks",
+        "serviceKey": "4033",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4033_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4033_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Cinema Action",
+        "serviceKey": "4014",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4014_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4014_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Cinema Book to Screen",
+        "serviceKey": "4020",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4020_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4020_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Cinema Animation",
+        "serviceKey": "1199",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1199_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1199_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Cinema Family",
+        "serviceKey": "4018",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4018_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4018_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Cinema Comedy",
+        "serviceKey": "4019",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4019_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4019_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Cinema Scares",
+        "serviceKey": "4017",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4017_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4017_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Cinema Thriller",
+        "serviceKey": "4062",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4062_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4062_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Cinema Greats",
+        "serviceKey": "4015",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4015_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4015_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Cinema Drama",
+        "serviceKey": "4016",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4016_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4016_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Sports News",
+        "serviceKey": "4049",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4049_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4049_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Sports Main Event",
+        "serviceKey": "4002",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4002_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4002_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Sports Premier League",
+        "serviceKey": "4010",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4010_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4010_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Sports Football",
+        "serviceKey": "3939",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_3939_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_3939_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Sports Cricket",
+        "serviceKey": "4081",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4081_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4081_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Sports Golf",
+        "serviceKey": "4026",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4026_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4026_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Sports F1",
+        "serviceKey": "3835",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_3835_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_3835_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Sports Tennis",
+        "serviceKey": "1284",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1284_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1284_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Sports Action",
+        "serviceKey": "4022",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4022_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4022_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Sports Plus",
+        "serviceKey": "3940",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_3940_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_3940_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Sports Racing",
+        "serviceKey": "4032",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4032_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4032_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Sports Mix",
+        "serviceKey": "4090",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4090_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4090_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Sky Kids",
+        "serviceKey": "1147",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1147_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1147_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Cartoon Network",
+        "serviceKey": "4077",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4077_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4077_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Boomerang",
+        "serviceKey": "4030",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4030_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4030_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Nickelodeon",
+        "serviceKey": "4069",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4069_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4069_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Nicktoons",
+        "serviceKey": "1849",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1849_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1849_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Nick Jr",
+        "serviceKey": "4039",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4039_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4039_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Cartoonito",
+        "serviceKey": "1371",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1371_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1371_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Premier Sports 1",
+        "serviceKey": "1633",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1633_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1633_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "Premier Sports 2",
+        "serviceKey": "1635",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1635_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_1635_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "TNT Sports 1",
+        "serviceKey": "3625",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_3625_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_3625_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "TNT Sports 2",
+        "serviceKey": "3627",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_3627_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_3627_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "TNT Sports 3",
+        "serviceKey": "3629",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_3629_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_3629_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      },
+      {
+        "name": "TNT Sports 4",
+        "serviceKey": "4040",
+        "darkLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4040_darknow/LOGO_CHANNEL_LIGHT/300/300?language=en-GB&proposition=NOWOTT",
+        "lightLogoUrl": "https://pixel.disco.nowtv.com/logo/skychb_4040_lightnow/LOGO_CHANNEL_DARK/300/300?language=en-GB&proposition=NOWOTT"
+      }
+    ]
+  }
